@@ -2,7 +2,8 @@
 layout: home
 author_profile: false
 title: Welcome to VentureBeyond
-header_image: /assets/images/header.png
+header:
+  image: /assets/images/header.png
 ---
 
 This Site is under maintanance, please return in a few hours.
