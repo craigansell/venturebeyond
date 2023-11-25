@@ -135,7 +135,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "http://google.com"
+      # url: "http://google.com"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
