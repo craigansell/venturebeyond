@@ -6,3 +6,6 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-include-cache
+#new
+header:
+  image: /assets/images/IMG_3294.jpeg
