@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Courses"
-    url: _pages/courses.html
+    url: /_pages/courses.html
   - title: "About"
-    url: _pages/about.html
+    url: /courses.html
   - title: "Contact"
   #   url: /year-archive/
   # - title: "Sample Collections"
