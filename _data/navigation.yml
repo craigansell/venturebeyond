@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "Courses"
-   # url: /courses
-   - title: "About"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "Contact"
+  - title: "Contact"
   #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
