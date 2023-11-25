@@ -6,6 +6,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Craig Ansell"
 description              : "An amazing website."
 url: "https://craigansell.github.io/venturebeyond"
+layout: single
 atom_feed:
   hide: true
 
