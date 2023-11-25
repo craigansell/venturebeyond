@@ -20,7 +20,7 @@ locale                   : "en-UK"
 title                    : "VentureBeyond"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Craig Ansell"
+name                     : "VentureBeyond"
 description              : "An amazing website."
 url                      : "https://craigansell.github.io/venturebeyond"
 baseurl                  : # the subpath of your site, e.g. "/blog"
