@@ -1,8 +1,8 @@
 ---
 layout: home
-author_profile: true
+author_profile: false
 title: Welcome to VentureBeyond
-feature_image: "assets/images/IMG_3294.jpeg"
+feature_image: "/assets/images/IMG_3294.jpeg"
 ---
 
 This Site is under maintanance, please return in a few hours.
