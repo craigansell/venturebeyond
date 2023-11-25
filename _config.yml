@@ -9,7 +9,13 @@ url: "https://craigansell.github.io/venturebeyond"
 atom_feed:
   hide: true
 
-author_profile: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
 author:
   name: "Your Name"
   avatar: "/assets/images/bio-photo.jpg"
