@@ -1,7 +1,7 @@
-title: Venture Beyond
+title: VentureBeyond
 logo: /assets/img/logo-color.png
 #description: Freelance Hill Walking and Climbing Instructor
-show_downloads: true
+show_downloads: false
 #remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 #theme: minimal-mistakes-jekyll
 remote_theme: pages-themes/cayman@v0.2.0
