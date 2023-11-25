@@ -184,6 +184,8 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - /_pages
+  - /_posts
 keep_files:
   - .git
   - .svn
@@ -288,7 +290,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: # true
       share: true
       related: true
+      show_date: true
