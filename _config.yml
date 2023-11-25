@@ -10,3 +10,5 @@ plugins:
 #new
 header:
   image: /assets/images/IMG_3294.jpeg
+author:
+    name: Craig Ansell
