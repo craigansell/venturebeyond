@@ -1,3 +1,4 @@
+remote_theme: daviddarnes/alembic@main
 # Site configuration
 # 1. Files excluded from Jekyll builds
 # 2. Installed Gems
