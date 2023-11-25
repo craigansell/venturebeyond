@@ -17,6 +17,7 @@ defaults:
       type: posts
     values:
       author_profile: true
+site:
 author:
   name: "Your Name"
   avatar: "/assets/images/bio-photo.jpg"
