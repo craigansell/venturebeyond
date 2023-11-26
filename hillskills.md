@@ -11,6 +11,8 @@ The Hill Skills course is nationally accredited by Mountain Training and Beyond 
 
 You can view a short video about the course on YouTube by following the link below;
 
+{% include video id="xBdWi0-aD6o" provider="youtube" %}
+
 [Mountain Training Hill Skills Youtube Video](https://www.youtube.com/watch?v=xBdWi0-aD6o)
 
 ### Hill Skills – Course Format

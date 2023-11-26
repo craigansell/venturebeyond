@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: false
+author_profile: true
 title: Welcome to VentureBeyond
 header:
   image: /assets/images/header.png
