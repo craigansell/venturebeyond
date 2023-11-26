@@ -1,7 +1,7 @@
 ---
 layout: single
-author_profile: false
 title: Courses
+permalink: /
 ---
 
 [Mountain Training Hill Skills](/hillskills/)
