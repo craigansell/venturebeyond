@@ -15,11 +15,11 @@ You can view a short video about the course below;
 ### Hill Skills – Course Format
 Over the two days which run from 09:00 to 17:00 we will cover;
 
-* Planning – how to successfully plan a hill walk in the UK or Ireland.
+- Planning – how to successfully plan a hill walk in the UK or Ireland.
 - Walking skills – what things should you consider while out walking and what can make life easier (pace, nutrition, movement skills etc.).
 - Clothing and equipment – being suitably dressed and equipped can make the difference between a great day out and a complete disaster.
 - Weather – how it affects the hills and your day out.
 - Navigation in the hills – everything from selecting a compass to navigation strategies and an intro to GPS.
 - Environmental knowledge – how to minimise your impact on the hill and information on good practice and useful organisations.
-  - Hazards and emergency procedures in the hills – how to respond to any hazards you encounter and what to do in an emergency.
+- Hazards and emergency procedures in the hills – how to respond to any hazards you encounter and what to do in an emergency.
 
