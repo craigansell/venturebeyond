@@ -1,9 +1,8 @@
 ---
 layout: single
 title: Courses
-permalink: /
 ---
 
-[Mountain Training Hill Skills](/hillskills/)
+[Mountain Training Hill Skills](/venturebeyond/hillskills/)
 
 For further information or enquiries, please email info@venturebeyond.uk
