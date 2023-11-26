@@ -1,8 +1,7 @@
 ---
 layout: single
+title: Mountain Training Hill Skills
 ---
-
-## Hill Skills
 
 During two fun and action packed days on the Hill Skills course, we will equip you with the skills and knowledge to safely undertake hill walks in the upland areas of the UK.
 
@@ -10,7 +9,9 @@ Absolutely no experience of hill walking or navigation is required prior to a hi
 
 The Hill Skills course is nationally accredited by Mountain Training and Beyond the Edge are one of the UKs most experienced providers of Mountain Training courses. Our courses are both highly informative and run by hugely experienced trainers. Importantly in our opinion, they are also fun and run in a friendly inclusive manner.
 
-You can view a short video about the course below;
+You can view a short video about the course on YouTube by following the link below;
+
+[Mountain Training Hill Skills Youtube Video](https://www.youtube.com/watch?v=xBdWi0-aD6o)
 
 ### Hill Skills – Course Format
 Over the two days which run from 09:00 to 17:00 we will cover;
@@ -23,3 +24,12 @@ Over the two days which run from 09:00 to 17:00 we will cover;
 - Environmental knowledge – how to minimise your impact on the hill and information on good practice and useful organisations.
 - Hazards and emergency procedures in the hills – how to respond to any hazards you encounter and what to do in an emergency.
 
+
+## Cost - £145.00
+
+Email [info@venturebeyond.uk](mailto:info@venturebeyond.uk) for further details, dates or booking.
+
+## Please Note:
+- Accomodation is not provided on this course
+- Own clothing and equipment required (please contact us for guidance if needed)
+- Course book, certificate and timing card included with this course.
