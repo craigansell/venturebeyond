@@ -9,4 +9,6 @@ title: Courses
 ### Other Courses, Training Guiding
 #### [Guided Walks](/venturebeyond/guidedwalks)
 
+
+
 For further information or enquiries, please email info@venturebeyond.uk

@@ -13,7 +13,7 @@ You can view a short video about the course on YouTube by following the link bel
 
 {% include video id="xBdWi0-aD6o" provider="youtube" %}
 
-[Mountain Training Hill Skills Youtube Video](https://www.youtube.com/watch?v=xBdWi0-aD6o)
+[Mountain Training Hill Skills Video on Youtube](https://www.youtube.com/watch?v=xBdWi0-aD6o)
 
 ### Hill Skills – Course Format
 Over the two days which run from 09:00 to 17:00 we will cover;
