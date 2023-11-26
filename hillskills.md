@@ -25,11 +25,11 @@ Over the two days which run from 09:00 to 17:00 we will cover;
 - Hazards and emergency procedures in the hills – how to respond to any hazards you encounter and what to do in an emergency.
 
 
-## Cost - £145.00
+#### Cost - £145.00
 
 Email [info@venturebeyond.uk](mailto:info@venturebeyond.uk) for further details, dates or booking.
 
-## Please Note:
+#### Please Note:
 - Accomodation is not provided on this course
 - Own clothing and equipment required (please contact us for guidance if needed)
 - Course book, certificate and timing card included with this course.
