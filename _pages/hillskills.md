@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Mountain Training Hill Skills
+
 ---
 
 During two fun and action packed days on the Hill Skills course, we will equip you with the skills and knowledge to safely undertake hill walks in the upland areas of the UK.
