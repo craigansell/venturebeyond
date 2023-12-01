@@ -12,6 +12,7 @@ search: false
   max-height: 4rem;
 }
 
-__inner-wrap {
+.masthead {
+&__inner-wrap {
     padding: 0em;
-}
+}}
