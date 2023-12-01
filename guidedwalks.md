@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Guided Walks
+permalink: /guidedwalks/
 ---
 
 
