@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Courses
+permalink: /courses/
 ---
 
 ### Mountain Training Courses
