@@ -9,4 +9,4 @@ header:
 
 At venturebeyond we are able to provide outdoor training for hill walking, mountaineering and climbing.
 
-[![Mountain Training](/assets/images/mt-logo.png)](http://www.mountain-training.org)
+[![Mountain Training](assets/images/mt-logo.png)](https://www.mountain-training.org)
