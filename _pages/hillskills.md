@@ -2,7 +2,7 @@
 layout: single
 title: Mountain Training Hill Skills
 permalink: /hillskills/
-author_profile: true
+author_profile: false
 author: Mountain Training
 
 ---
