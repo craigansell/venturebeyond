@@ -19,7 +19,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 locale                   : "en-UK"
 title                    : "VentureBeyond"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Let your adventure begin"
 name                     : "VentureBeyond"
 description              : "An amazing website."
 url                      : "https://craigansell.github.io/venturebeyond"
