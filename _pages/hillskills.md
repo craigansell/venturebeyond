@@ -11,7 +11,7 @@ During two fun and action packed days on the Hill Skills course, we will equip y
 
 Absolutely no experience of hill walking or navigation is required prior to a hill skills course. We spend approximately four to five hours walking on each day and by the end can navigate a route on paths / tracks.
 
-The Hill Skills course is nationally accredited by Mountain Training and Beyond the Edge are one of the UKs most experienced providers of Mountain Training courses. Our courses are both highly informative and run by hugely experienced trainers. Importantly in our opinion, they are also fun and run in a friendly inclusive manner.
+The Hill Skills course is nationally accredited by Mountain Training and our courses are both highly informative and run by experienced trainers. Importantly in our opinion, they are also fun and run in a friendly inclusive manner.
 
 You can view a short video about the course on YouTube by following the link below;
 
