@@ -1,6 +1,8 @@
 ---
 layout: single
 title: Mountain Training Hill Skills
+author_profile: true
+author: Mountain Training
 
 ---
 
