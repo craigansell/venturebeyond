@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Mountain Training Hill Skills
+permalink: /hillskills/
 author_profile: true
 author: Mountain Training
 
