@@ -133,9 +133,9 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "http://google.com"
+    - label: "Mountain Training"
+      icon: "/images/footer-mountain-training-1.jpg"
+      url: "http://mountain-training.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
