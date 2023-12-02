@@ -135,7 +135,7 @@ footer:
   links:
     - label: "Mountain Training"
       icon: "assets/images/footer-mountain-training-2.png"
-      url: "http://mountain-training.org"
+      # url: "http://mountain-training.org"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
