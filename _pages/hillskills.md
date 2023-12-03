@@ -33,7 +33,7 @@ Over the two days which run from 09:00 to 17:00 we will cover;
 
 #### Cost - £145.00
 
-<a href="/bookingform/" class="btn btn--sucsess">Book Now</a>
+<a href="/venturebeyond/bookingform/" class="btn btn--success">Book Now</a>
 
 Email [info@venturebeyond.uk](mailto:info@venturebeyond.uk) for further details, dates or booking.
 
