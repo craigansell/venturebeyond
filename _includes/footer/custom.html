@@ -15,11 +15,25 @@
 
    }
 }
+   .associations {
+    a {
+      white-space: nowrap;
+    }
+   
 </style>
 
 <div class=footer">
   <ul class="associations">
 <li><a href="https://www.mountain-training.org"><img src="assets/images/mt-logo.png"></a></li>
 <li><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a></li>
+
+     {% if site.footer.associations %}
+      {% for associations in site.footer.associations %}
+        {% if associations.img and associations.url %}
+        <li><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+     
  </ul>
 </div>
