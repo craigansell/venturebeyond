@@ -134,8 +134,8 @@ author:
 footer:
   links:
     - label: "Mountain Training"
-      icon: "assets/images/footer-mountain-training-2.png"
-      # url: "http://mountain-training.org"
+      icon: "assets/images/mt-logo.png"
+      url: "http://mountain-training.org"
     - label: "Terms and Conditions"
       # icon: "fab fa-fw fa-facebook-square"
       url: "/venturebeyond/termsandconditions/"
