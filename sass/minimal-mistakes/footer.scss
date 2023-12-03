@@ -16,6 +16,10 @@
   animation-delay: 0.45s;
   background-color: $footer-background-color;
 
+   img {
+   float: right;
+   }
+   
   footer {
     @include clearfix;
     margin-left: auto;
@@ -105,5 +109,9 @@
     a {
       white-space: nowrap;
     }
+   
+   img {
+   float: right;
+   }
   }
 }
