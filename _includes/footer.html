@@ -11,26 +11,18 @@
         {% endif %}
       {% endfor %}
     {% endif %}
+
+     {% if site.footer.associations %}
+      {% for associations in site.footer.associations %}
+        {% if associations.img and associations.url %}
+        <li><a href="{{ associations.url }}"><img align="right" src="{{ associations.img }}"></a></li>
+        {% endif %}
+      {% endfor %}
+    {% endif %}
     
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
-  </ul>
-</div>
-
-<div class="page__footer-associations">
-  <ul class="social-icons">
-  {% if site.data.ui-text[site.locale].follow_label %}
-      <li>{{ site.data.ui-text[site.locale].follow_label }}</li>
-    {% endif %}
-    
-    {% if site.footer.associations %}
-      {% for associations in site.footer.associations %}
-        {% if associations.img and associations.url %}
-        <li><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
   </ul>
 </div>
     
