@@ -19,7 +19,8 @@ You can view a short video about the course on YouTube by following the link bel
 
 [Mountain Training Hill Skills Video on Youtube](https://www.youtube.com/watch?v=xBdWi0-aD6o)
 
-### Hill Skills – Course Format
+**Hill Skills – Course Format**
+
 Over the two days which run from 09:00 to 17:00 we will cover;
 
 - **Planning** – how to successfully plan a hill walk in the UK or Ireland.
@@ -31,13 +32,13 @@ Over the two days which run from 09:00 to 17:00 we will cover;
 - **Hazards and emergency procedures in the hills** – how to respond to any hazards you encounter and what to do in an emergency.
 
 
-#### Cost - £145.00
+**Cost - £145.00**
 
 <a href="/venturebeyond/bookingform/" class="btn btn--success">Book Now</a>
 
 Email [info@venturebeyond.uk](mailto:info@venturebeyond.uk) for further details, dates or booking.
 
-#### Please Note:
+***Please Note:***
 - Accomodation is not provided on this course
 - Own clothing and equipment required (please contact us for guidance if needed)
 - Course book, certificate and timing card included with this course.
