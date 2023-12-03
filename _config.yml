@@ -88,6 +88,10 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
+mt:
+  img: "assets/images/mt-logo.png"
+  url: "http://mountain-training.org"
+
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
