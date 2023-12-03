@@ -1,16 +1,14 @@
 ---
 layout: single
-Title: Course Booking Terms & Conditions
+Title: Terms and Conditions – Booking a Course
 permalink: /termsandconditions/
 ---
 
-### Terms and Conditions – Booking a Course
-
-#### Policy Updated December 2023
+***Policy Updated December 2023***
 
 These Terms and Conditions apply to booking a course advertised on VentureBeyond's website. A different set of terms and conditions apply to the bespoke services described on VentureBeyond’s website.
 
-### Booking
+**Booking**
 
 A course place is reserved on receipt by VentureBeyond of a completed booking form and payment as follows:
 
