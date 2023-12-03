@@ -4,16 +4,14 @@
   left: 0;
   bottom: 0;
   width: 100%;
-  background-color: red;
-  color: white;
   text-align: center;
   float: left;
 }
 
 .footer--icons {
   display: flex;
-  align-items: flex-center;
-  justify-content: center;
+  align-items: flex-right;
+  justify-content: right;
 }
 
 .footer--icons > img {
@@ -21,6 +19,7 @@
 }
 </style>
 
+<div class="page__footer">
 <div class="footer">
   <div class="footer--icons">
     <a href="/termsandconditions/">Terms and Conditions</a>
@@ -28,5 +27,5 @@
     <img src="static/website/media/iconfinder_1964405_linkedin_logo_media_social_icon.svg" alt="discord">  
   </div>
 </div>
-
+</div>
 <div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
