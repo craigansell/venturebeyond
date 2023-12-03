@@ -52,23 +52,19 @@
 }
 
 .page__footer_associations {
-  ul {
+   float: right;
+   justify-content: right;
+   align-items: flex-right;
+   
+   ul {
     margin: 0;
     padding: 0;
-    float: right;
     list-style-type: none;
-    justify-content: right;
-    align-items: flex-right;
   }
 
    li {
    display: flex;
-   margin: 0;
-    padding: 0;
-    float: right;
-    list-style-type: none;
-    justify-content: right;
-    align-items: flex-right;
+
    }
 }
 
