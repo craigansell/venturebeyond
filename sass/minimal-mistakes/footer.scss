@@ -52,9 +52,9 @@
 }
 
 .page__footer_associations {
-   float: right;
-   justify-content: right;
-   align-items: flex-right;
+   display: flex;
+   align-items: flex-center;
+   justify-content: center;
    
    ul {
     margin: 0;
