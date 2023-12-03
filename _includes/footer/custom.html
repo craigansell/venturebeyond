@@ -1,5 +1,6 @@
 <style>
    .footer {
+      float: right;
    display: flex;
    align-items: flex-right;
    justify-content: right;
@@ -23,9 +24,7 @@
 </style>
 
 <div class=footer">
-  <ul class="associations">
-<li><a href="https://www.mountain-training.org"><img src="assets/images/mt-logo.png"></a></li>
-<li><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a></li>
+  <ul class="footer">
 
      {% if site.footer.associations %}
       {% for associations in site.footer.associations %}
