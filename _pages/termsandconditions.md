@@ -1,6 +1,6 @@
 ---
 layout: single
-Title: Terms and Conditions – Booking a Course
+title: Terms and Conditions – Booking a Course
 permalink: /termsandconditions/
 ---
 
@@ -9,7 +9,6 @@ permalink: /termsandconditions/
 These Terms and Conditions apply to booking a course advertised on VentureBeyond's website. A different set of terms and conditions apply to the bespoke services described on VentureBeyond’s website.
 
 **Booking**
-
 A course place is reserved on receipt by VentureBeyond of a completed booking form and payment as follows:
 
 - If a half day course, payment of course fee in full
@@ -27,13 +26,13 @@ The courses advertised by VentureBeyond on its website and elsewhere are illustr
 
 All course fees include VAT
 
-## Group Booking
+**Group Booking**
 
 If a client wishes to make a group booking a Main Contact must be provided in the booking form. VentureBeyond will only deal with the Main Contact in relation to the booking, including any changes or cancellation.
 
 The Main Contact will be responsible for the payment of all deposits and course fees and it will be assumed by BtE that the Main Contact has authority to act on behalf of all group members. Each group member must complete and submit a booking form to VentureBeyond.
 
-## Cancellation by the Client
+**Cancellation by the Client**
 
 All cancellations must be in writing (sent by post or email) and acknowledged by BtE. Cancellation costs charged to the client are:
 If a half day course:
@@ -54,7 +53,7 @@ Deposits are non refundable.
 
 Any refunds due, after deduction of cancellation costs, will be made within 15 working days of BtE acknowledging the cancellation.
 
-## Cancellation by VentureBeyond
+**Cancellation by VentureBeyond**
 
 Whilst every attempt is made to ensure courses run as advertised, VentureBeyond reserves the right to cancel any course due to:
 
@@ -68,11 +67,11 @@ Where a course is cancelled by VentureBeyond a client will be offered:
 - A full refund of the course fee/deposit they have paid, or
 - Another course on a different date. Any difference in the cost of the cancelled course and the other course will (as appropriate) be credited by VentureBeyond or paid by the client in accordance with these Terms and Conditions.
 
-## Changing a Booking
+**Changing a Booking**
 
 At the discretion of VentureBeyond, a client may amend or change their booking.
 
-## Participation Statement
+**Participation Statement**
 
 Whilst safety is paramount in all our activities, mountaineering and its allied activities contain an element of inherent risk. All clients of BtE are deemed to understand and accept as a condition of their booking the following British Mountaineering Council (BMC) participation statement:
 
@@ -82,7 +81,7 @@ VentureBeyond reserves the right to terminate part or all of a course or to excl
 
 A client participating in a course who does not obey the safety guidance or instructions of VentureBeyond or its staff and / or undertakes independent activities during a course will be deemed to have removed themselves from the course and will not be covered by any duty of care or the professional insurance of VentureBeyond or any of its staff (for the avoidance of doubt, references to staff in these Terms and Conditions includes the instructors/course directors that BVentureBeyond engages to deliver its courses). No refund of course fees will occur.
 
-## Health and Fitness
+**Health and Fitness**
 
 VentureBeyond must be made fully aware of any medical problem, condition, disability, injuries or medication of a client prior to booking. If any of these medical issues change, arise or are suffered, between booking and the commencement of the course VentureBeyond must be notified immediately.
 
@@ -94,21 +93,21 @@ VentureBeyond reserves the right to refuse or cancel a booking on medical ground
 
 Clients should familiarise themselves with the different levels of exertion likely to be needed for the different courses offered by VentureBeyond and choose a course that is suitable for their level of health and fitness. If there is any doubt as to the level of fitness required for a particular course or activity, please contact BtE prior to booking. Clients should arrive for the course suitably fit and prepared for the activities.
 
-## Equipment
+**Equipment**
 
 The client is responsible at all times for their personal property and equipment and for ensuring it is suitable and safe for use on the course. VentureBeyond will not be responsible for any loss or damage to a client’s personal property or equipment used on a course.
 
 If VentureBeyond issues a client with property or equipment for use on a course, the client will at all times be responsible for its safekeeping and proper use. VentureBeyond reserves the right to charge for any property and / or equipment lost, damaged or misused by a client on a course.
 
-## Transport
+**Transport**
 
 Transport is not included within the course fee. It is the client’s responsibility to get to the course location / venue at the time specified. It may be necessary for a client to utilise their own transport during a course: if they do, VentureBeyond accepts no responsibility for any loss or damage arising directly or indirectly from that use.
 
-## Insurance
+**Insurance**
 
 For all courses, clients are advised to take out travel and / or personal insurance that covers them for the course activities they will be undertaking. These insurance policies will usually include cover for cancellation, curtailment, loss or damage to personal property and equipment, personal accident and personal liability. It is a client’s responsibility to ensure they are adequately insured.
 
-## Limitation of Liability
+**Limitation of Liability**
 
 Except to the extent expressly stated in these Terms and Conditions, BtE will not be liable where any failure or delay in the delivery of a course is due to:
 
@@ -121,11 +120,11 @@ VentureBeyond’s liability in tort (including negligence), breach of contract, 
 
 Nothing in these Terms and Conditions shall limit or exclude BtE’s liability for any personal injury or loss of life sustained on a course caused by the negligence of BtE, its employees, agents or sub-contractors, or for fraud or fraudulent misrepresentation.
 
-## Photographs
+**Photographs**
 
 Photographs and video footage taken on a course may be used by VentureBeyond for publicity purposes on its website and in promotional material (including on social media). If a client does not consent to this they must inform VentureBeyond at the time of booking or the course director immediately prior to the start of the course.
 
-## Data Protection
+**Data Protection**
 
 VentureBeyond is registered with the Information Commissioner for data protection purposes and has appropriate procedures and security measures in place to protect client’s personal information.
 
@@ -133,11 +132,11 @@ When a client makes a booking, they are deemed to consent to their personal info
 
 Please see VentureBeyond’s Privacy & Cookies Policy for further details on how it collects, uses and safeguards client’s personal information.
 
-## Complaints
+**Complaints**
 
 A client should report any problems or complaints, while on a course, to the course director immediately so that they can seek to remedy it. If not resolved to your satisfaction, please write to VentureBeyond, within 2 weeks of the course date, by email to info@venturebeyond.uk or by letter to a Director at VentureBeyond’s office. Please include your full name, the course name, course date and details of the problem or complaint.
 
-## General
+**General**
 
 VentureBeyond may at any time sub-contract or delegate any or all of its obligations to a client to a third party.
 
@@ -147,10 +146,10 @@ If any of these Terms and Conditions is found to be unlawful, invalid or unenfor
 
 No third party rights are granted.
 
-## Supplier / VentureBeyond
+**Supplier / VentureBeyond**
 
 All bookings and agreements made in accordance with these Terms and Conditions are made with VentureBeyond.
 
-## Law & Jurisdiction
+**Law & Jurisdiction**
 
 These Terms and Conditions and all bookings and agreements made with VentureBeyond will be subject to and governed by English law and the Courts of England and Wales shall have exclusive jurisdiction over any dispute.
