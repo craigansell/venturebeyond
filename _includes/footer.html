@@ -14,8 +14,8 @@
     
     {% if site.footer.associations %}
       {% for associations in site.footer.associations %}
-        {% if association.img and association.url %}
-        <li><a href="{{ association.url }}"><img src="{{ association.img }}"></a>
+        {% if associations.img and associations.url %}
+        <li><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a>
         {% endif %}
       {% endfor %}
     {% endif %}
