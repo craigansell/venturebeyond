@@ -158,9 +158,6 @@ footer:
     - label: "Mountain Training"
       img: "assets/images/mt-logo.png"
       url: "http://mountain-training.org"
-    - label: "Mountain Training"
-      img: "assets/images/mt-logo.png"
-      url: "http://mountain-training.org"
 
 # Reading Files
 include:
