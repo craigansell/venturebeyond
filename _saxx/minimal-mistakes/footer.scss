@@ -15,8 +15,6 @@
   -webkit-animation-delay: 0.45s;
   animation-delay: 0.45s;
   background-color: $footer-background-color;
-  font-family: $sans-serif-narrow;
-  font-size: $type-size-6;
 
   footer {
     @include clearfix;
@@ -64,9 +62,7 @@
     display: inline-block;
     padding-top: 5px;
     padding-bottom: 5px;
-    font-family: $sans-serif-narrow;
-    font-size: $type-size-6;
-    /* text-transform: uppercase; */
+    font-size: 0.5em;
   }
 
   li + li:before {
