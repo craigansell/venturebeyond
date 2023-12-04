@@ -1,0 +1,20 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+
+<style>
+   .page__footer-follow {
+  li {
+    font-family: $sans-serif-narrow;
+    font-size: 0.5em;
+    text-transform: none;
+  }
+   }
+</style>
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
