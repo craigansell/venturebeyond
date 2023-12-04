@@ -13,15 +13,13 @@
 </style>
 
 <div class=footer">
-  <ul class="image">
 
      {% if site.footer.associations %}
       {% for associations in site.footer.associations %}
         {% if associations.img and associations.url %}
-        <li><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a></li>
+        <div class="image"><a href="{{ associations.url }}"><img src="{{ associations.img }}"></a></div>
         {% endif %}
       {% endfor %}
     {% endif %}
      
- </ul>
 </div>
