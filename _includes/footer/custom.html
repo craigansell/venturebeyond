@@ -2,17 +2,17 @@
    .footer {
    float: right;
    display: flex;
-
-  
+   align-items: centre;
    list-style-type: none;
-   padding: 0px;
-   margin-right: 10px;
 }
-   
+   .image {
+      float: right;
+      padding: 5px;
+   }
 </style>
 
 <div class=footer">
-  <ul class="footer">
+  <ul class="image">
 
      {% if site.footer.associations %}
       {% for associations in site.footer.associations %}
