@@ -8,7 +8,7 @@ permalink: /courses/
 **[Mountain Training Hill Skills](/venturebeyond/hillskills/)**
 
 ### National Navigation Award Scheme (NNAS)
-**[Bronze and Silver Awards](/venturebeyond/nnas)**
+**[Bronze and Silver Navigator Awards](/venturebeyond/nnas)**
 
 ### Guiding
 **[Guided Walks](/venturebeyond/guidedwalks)**
