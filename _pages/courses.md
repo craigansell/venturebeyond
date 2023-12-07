@@ -5,10 +5,13 @@ permalink: /courses/
 ---
 
 ### Mountain Training Courses
-#### [Mountain Training Hill Skills](/venturebeyond/hillskills/)
+**[Mountain Training Hill Skills](/venturebeyond/hillskills/)**
 
-### Other Courses, Training Guiding
-#### [Guided Walks](/venturebeyond/guidedwalks)
+### National Navigation Award Scheme (NNAS)
+**[Bronze and Silver Awards](/venturebeyond/nnas)**
+
+### Guiding
+**[Guided Walks](/venturebeyond/guidedwalks)**
 
 
 
