@@ -18,7 +18,9 @@ You don’t, of course, have to start at Bronze, although it expected that you w
 
 The Bronze Award covers the essential map reading skills. You'll learn about using “handrail features”, like paths and walls, to guide you along your way. You’ll also learn the basics of how to use a compass and how to use it with your map to ensure you don’t get lost. A bronze course will take you from relying on friends or guidebooks to being able to plan a walk and follow it successfully.
 
-**Introduction to Navigation – Course Format**
+**Duration - 2 Days**
+
+**NNAS Bronze – Course Format**
 
 We start at 9am with a chat over a cuppa in our training room, covering some theory and a few fun exercises before heading outside. During the course we will cover:
 
