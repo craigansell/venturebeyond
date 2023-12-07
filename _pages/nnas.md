@@ -3,3 +3,23 @@ layout: single
 title: NNAS Courses
 permalink: /nnas/
 ---
+##Navigator Awards
+The aims of the National Navigation Award Scheme’s Navigator Award are simple – to give lovers of the outdoors, whatever their sport, age or fitness, the freedom to explore the paths, trails, hills and mountains of Britain and abroad.
+
+Gaining an award does not give you a qualification to teach or lead. It is a recognition of the level of skill at which you can navigate.
+
+There are three levels – the Bronze Award, the Silver Award and the Gold  Award. Progressing through the three awards will take you from being an absolute map and compass novice right through to be an expert navigator at Gold. The NNAS also runs the Outdoor Discover Award.
+
+The NNAS Navigator Awards (Bronze, Silver and Gold) are accredited by the Scottish Credit & Qualifications Framework (SCQF) at Level 4, 5 and 6 respectively and 2 SCQF credit points are awarded on completion (see our FAQ page for more information).
+
+You don’t, of course, have to start at Bronze, although it expected that you will have completed the Silver award at least before you start a Gold Award course.
+
+**Bronze Navigator Award**
+
+The Bronze Award covers the essential map reading skills. You'll learn about using “handrail features”, like paths and walls, to guide you along your way. You’ll also learn the basics of how to use a compass and how to use it with your map to ensure you don’t get lost. A bronze course will take you from relying on friends or guidebooks to being able to plan a walk and follow it successfully.
+
+**Silver Navigator Award**
+
+On a Silver Navigator Award course, you’ll start to leave the paths behind. You'll navigate in open country on short bearings. As your confidence increases you’ll learn more advanced compass skills and add timing and pacing into the mix too.
+
+Silver courses take place on more difficult terrain and away from easy-to-follow paths and trails.
