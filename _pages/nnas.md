@@ -6,7 +6,7 @@ permalink: /nnas/
 
 The aims of the National Navigation Award Scheme’s Navigator Award are simple – to give lovers of the outdoors, whatever their sport, age or fitness, the freedom to explore the paths, trails, hills and mountains of Britain and abroad.
 
-Gaining an award does not give you a qualification to teach or lead. It is a recognition of the level of skill at which you can navigate.
+***Gaining an award does not give you a qualification to teach or lead. It is a recognition of the level of skill at which you can navigate.***
 
 There are three levels – the Bronze Award, the Silver Award and the Gold  Award. Progressing through the three awards will take you from being an absolute map and compass novice right through to be an expert navigator at Gold. The NNAS also runs the Outdoor Discover Award.
 
