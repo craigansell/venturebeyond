@@ -7,7 +7,7 @@ author: Mountain Training
 
 ---
 
-<img src="assets/images/mt-logo.png">
+<img src="/assets/images/mt-logo.png">
 
 During two fun and action packed days on the Hill Skills course, we will equip you with the skills and knowledge to safely undertake hill walks in the upland areas of the UK.
 
