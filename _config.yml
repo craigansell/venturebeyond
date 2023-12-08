@@ -156,10 +156,10 @@ footer:
 
   associations:
     - label: "Mountain Training"
-      img: "assets/images/mt-logo.png"
+      img: "/assets/images/mt-logo.png"
       url: "http://mountain-training.org"
     - label: "NNAS"
-      img: "assets/images/nnas-logo.png"
+      img: "/assets/images/nnas-logo.png"
       url: "http://https://nnas.org.uk"
 
 # Reading Files
