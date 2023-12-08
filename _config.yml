@@ -26,7 +26,7 @@ url                      : "https://craigansell.github.io/venturebeyond"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "assets/images/logo-color.png"
+logo                     : "/assets/images/logo-color.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "VentureBeyond"
-  avatar           : "assets/img/logo-color.png"
+  avatar           : "/assets/img/logo-color.png"
   bio              : #"I am an **amazing** person."
   location         : #"Somewhere"
   email            :
@@ -136,11 +136,11 @@ author:
 footer:
   links:
     - label: "Mountain Training"
-      icon: "assets/images/mt-logo.png"
+      icon: "/assets/images/mt-logo.png"
       #url: "http://mountain-training.org"
     - label: "Terms and Conditions"
       # icon: "fab fa-fw fa-facebook-square"
-      url: "/venturebeyond/termsandconditions/"
+      url: "/termsandconditions/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       # url:
