@@ -4,18 +4,20 @@ title: Courses
 permalink: /courses/
 ---
 
+### Mountain Training Courses
+
 <img src="/assets/images/mt-logo.png">
 
-### Mountain Training Courses
-**[Mountain Training Hill Skills](/venturebeyond/hillskills/)**
+**[Mountain Training Hill Skills](/hillskills/)**
+
+### National Navigation Award Scheme (NNAS)
 
 <img src="/assets/images/nnas-logo.png">
 
-### National Navigation Award Scheme (NNAS)
-**[Bronze and Silver Navigator Awards](/venturebeyond/nnas)**
+**[Bronze and Silver Navigator Awards](/nnas)**
 
 ### Guiding
-**[Guided Walks](/venturebeyond/guidedwalks)**
+**[Guided Walks](/guidedwalks)**
 
 
 
