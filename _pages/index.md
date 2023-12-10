@@ -11,6 +11,6 @@ At venturebeyond we are able to provide outdoor training for hill walking, mount
 
 ![map](/assets/images/image4.png)
 ![group](/assets/images/image6.png)
-<br>
-[![Mountain Training](/assets/images/mt-logo.png)](https://www.mountain-training.org)
-[![NNAS](/assets/images/nnas-logo.png)](https://nnas-org.uk)
+
+<!--- [![Mountain Training](/assets/images/mt-logo.png)](https://www.mountain-training.org)
+[![NNAS](/assets/images/nnas-logo.png)](https://nnas-org.uk) --->
