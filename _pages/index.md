@@ -9,8 +9,8 @@ header:
 
 At venturebeyond we are able to provide outdoor training for hill walking, mountaineering and climbing.
 
-<img src="/assets/images/image4.png" alt="map" width="75%" height="auto">
-<img src="/assets/images/image6.png" alt="group" width="75%" height="auto">
+<img src="/assets/images/image4.png" alt="map" width="50%" height="auto">
+<img src="/assets/images/image6.png" alt="group" width="50%" height="auto">
 
 <!--- [![Mountain Training](/assets/images/mt-logo.png)](https://www.mountain-training.org)
 [![NNAS](/assets/images/nnas-logo.png)](https://nnas-org.uk) --->
