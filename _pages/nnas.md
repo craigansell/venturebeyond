@@ -5,12 +5,10 @@ permalink: /nnas/
 ---
 <div>
 <img src="/assets/images/nnas-logo.png" style="float: left; margin: 5px;">
-The aims of the National Navigation Award Scheme’s Navigator Award are simple – to give lovers of the outdoors, whatever their sport, age or fitness, the freedom to explore the paths, trails, hills and mountains of Britain and abroad.
+The aims of the National Navigation Award Scheme’s Navigator Award are simple – to give lovers of the outdoors, whatever their sport, age or fitness, the freedom to explore the paths, trails, hills and mountains of Britain and abroad.  
 </div>
 
-  
 ***Gaining an award does not give you a qualification to teach or lead. It is a recognition of the level of skill at which you can navigate.***
-  
 
 <div>
 <img src="/assets/images/image2.png" alt="map" width="40%" height="auto" style="float: left; margin: 5px;">
@@ -18,7 +16,7 @@ There are three levels – the Bronze Award, the Silver Award and the Gold  Awar
 
 The NNAS Navigator Awards (Bronze, Silver and Gold) are accredited by the Scottish Credit & Qualifications Framework (SCQF) at Level 4, 5 and 6 respectively and 2 SCQF credit points are awarded on completion (see our FAQ page for more information).
 
-You don’t, of course, have to start at Bronze, although it expected that you will have completed the Silver award at least before you start a Gold Award course.
+You don’t, of course, have to start at Bronze, although it expected that you will have completed the Silver award at least before you start a Gold Award course.  
 </div>
 
 **Bronze Navigator Award**
