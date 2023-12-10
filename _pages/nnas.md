@@ -6,7 +6,8 @@ permalink: /nnas/
 
 <img src="/assets/images/nnas-logo.png">
 
-<img src="/assets/images/image2.png" alt="map" width="40%" height="auto"> The aims of the National Navigation Award Scheme’s Navigator Award are simple – to give lovers of the outdoors, whatever their sport, age or fitness, the freedom to explore the paths, trails, hills and mountains of Britain and abroad.
+<img src="/assets/images/image2.png" alt="map" width="40%" height="auto" align="top">
+The aims of the National Navigation Award Scheme’s Navigator Award are simple – to give lovers of the outdoors, whatever their sport, age or fitness, the freedom to explore the paths, trails, hills and mountains of Britain and abroad.
 
 ***Gaining an award does not give you a qualification to teach or lead. It is a recognition of the level of skill at which you can navigate.***
 
