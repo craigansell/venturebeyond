@@ -7,10 +7,10 @@ author: Mountain Training
 
 ---
 
-<img src="/assets/images/mt-logo.png">
-
+<div>
+<img src="/assets/images/mt-logo.png" style="float: left; margin: 5px;">
 During two fun and action packed days on the Hill Skills course, we will equip you with the skills and knowledge to safely undertake hill walks in the upland areas of the UK.
-
+</div>
 Absolutely no experience of hill walking or navigation is required prior to a hill skills course. We spend approximately four to five hours walking on each day and by the end can navigate a route on paths / tracks.
 
 The Hill Skills course is nationally accredited by Mountain Training and our courses are both highly informative and run by experienced trainers. Importantly in our opinion, they are also fun and run in a friendly inclusive manner.
