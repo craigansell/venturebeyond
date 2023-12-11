@@ -43,9 +43,7 @@ We start at 9am with a chat over a cuppa in our training room, covering some the
 
 **Cost - £145.00**
 
-<a href="/venturebeyond/bookingform/" class="btn btn--success">Book Now</a>
-
-Email [info@venturebeyond.uk](mailto:info@venturebeyond.uk) for further details, dates or booking.
+<a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
 
 **Silver Navigator Award**
 
@@ -74,9 +72,7 @@ The days are flexible to suit the prevailing weather conditions. We start both d
 
 **Cost - £165.00**
 
-<a href="/venturebeyond/bookingform/" class="btn btn--success">Book Now</a>
-
-Email [info@venturebeyond.uk](mailto:info@venturebeyond.uk) for further details, dates or booking.
+<a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
 
 ***Please Note:***
 - Accomodation is not provided on this course
