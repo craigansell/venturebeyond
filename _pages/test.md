@@ -10,7 +10,7 @@ permalink: /test/
 25-08-72 - long Mynd, Shropshire - Mountain Training Hill Skills<br>
 25-08-72 - long Mynd, Shropshire - Mountain Training Hill Skills<br>
 <br>
-All courses cost £155.00 per candidate<br>
+All courses cost £145.00 per candidate<br>
 
 <a href="/bookingform/" class="btn btn--success">Book a Course Now</a>
 <a href="/contact/" class="btn btn--info">Make an Enquire</a>
@@ -20,7 +20,7 @@ All courses cost £155.00 per candidate<br>
 19-02-24 - Long Mynd, Shropshire - NNAS Bronze Navigator Award<br>
 19-02-24 - Long Mynd, Shropshire - NNAS Silver Navigator Award<br>
 <br>
-All courses cost £145.00 per candidate<br>
+Course costs are £145.00 for Bronze Navigator Award and £155.00 for Silver Navigator Award per candidate<br>
 
 <a href="/bookingform/" class="btn btn--success">Book a Course Now</a>
 <a href="/contact/" class="btn btn--info">Make an Enquire</a>
