@@ -23,7 +23,9 @@ permalink: /test/
 
 **Guided Walks**
 
-TBA - Shropshire, Peak District and Midlands Area's - Guided Walks @ £130.00 (full day) <br>
+Area's covered - Shropshire, Peak District and Midlands, please contact us on your requirments.
+
+TBA - Area TBA - Guided Walks @ £130.00 (full day) <br>
 
 <a href="/bookingform/" class="btn btn--success">Book a Course Now</a>
 <a href="/contact/" class="btn btn--info">Make an Enquire</a>
