@@ -17,8 +17,8 @@ All courses cost £155.00 per candidate<br>
 
 **NNAS Navigartor Awards**
 
-19-02-24 - Long Mynd, Shropshire - NNAS Bronze navigator Award<br>
-19-02-24 - Long Mynd, Shropshire - NNAS Silver navigator Award<br>
+19-02-24 - Long Mynd, Shropshire - NNAS Bronze Navigator Award<br>
+19-02-24 - Long Mynd, Shropshire - NNAS Silver Navigator Award<br>
 <br>
 All courses cost £145.00 per candidate<br>
 
@@ -28,7 +28,6 @@ All courses cost £145.00 per candidate<br>
 **Guided Walks**
 
 Area's covered - Shropshire, Peak District and Midlands, please contact us on your requirments.<br>
-Guided Walks cost £130.00 per booking for a Full Day or £65.00 per booking for Half day.<br>
 Group Size Max 6 Persons<br>
 <br>
 TBA - Area TBA - Guided Walks @ £130.00 (full day) <br>
