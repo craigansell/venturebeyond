@@ -9,6 +9,7 @@ permalink: /test/
 
 25-08-72 - long Mynd, Shropshire - Mountain Training Hill Skills<br>
 25-08-72 - long Mynd, Shropshire - Mountain Training Hill Skills<br>
+<br>
 All courses cost £155.00 per candidate<br>
 
 <a href="/bookingform/" class="btn btn--success">Book a Course Now</a>
@@ -16,8 +17,9 @@ All courses cost £155.00 per candidate<br>
 
 **NNAS Navigartor Awards**
 
-19-02-24 - Long Mynd, Shropshire - NNAS Bronze navigator Award @ £145.00 <br>
-19-02-24 - Long Mynd, Shropshire - NNAS Silver navigator Award @ £145.00 <br>
+19-02-24 - Long Mynd, Shropshire - NNAS Bronze navigator Award<br>
+19-02-24 - Long Mynd, Shropshire - NNAS Silver navigator Award<br>
+<br>
 All courses cost £145.00 per candidate<br>
 
 <a href="/bookingform/" class="btn btn--success">Book a Course Now</a>
@@ -28,7 +30,9 @@ All courses cost £145.00 per candidate<br>
 Area's covered - Shropshire, Peak District and Midlands, please contact us on your requirments.<br>
 Guided Walks cost £130.00 per booking for a Full Day or £65.00 per booking for Half day.<br>
 Group Size Max 6 Persons<br>
+<br>
 TBA - Area TBA - Guided Walks @ £130.00 (full day) <br>
+TBA - Area TBA - Guided Walks @ £65.00 (Half day) <br>
 
 <a href="/bookingform/" class="btn btn--success">Book a Guided Walk Now</a>
 <a href="/contact/" class="btn btn--info">Make an Enquire</a>
