@@ -27,7 +27,8 @@ Course costs are £145.00 for Bronze Navigator Award and £155.00 for Silver Nav
 
 **Guided Walks**
 
-Area's covered - Shropshire, Peak District and Midlands, please contact us on your requirments.<br>
+Area's covered - Shropshire, Peak District and Midlands, Can include skill practice e.g.navigation etc.<br>
+Please contact us to discuss your requirments.<br>
 Group Size Max 6 Persons<br>
 <br>
 TBA - Area TBA - Guided Walks @ £130.00 (full day) <br>
