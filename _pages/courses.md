@@ -14,7 +14,7 @@ permalink: /courses/
 
 <img src="/assets/images/nnas-logo.png">
 
-**[Bronze and Silver Navigator Awards](/nnas)**
+**[Bronze and Silver Navigator Awards](/nnas/)**
 
 ### Guiding and Other Training
 Area's covered - Shropshire, Peak District and Midlands<br>
@@ -25,8 +25,6 @@ Group Size Max 6 Persons<br>
 - Intro to Geocaching
 - Intro to Navigation
 
-**[Guiding](/guiding)**
-
-
+**[Guiding and Other Training](/other/)**
 
 For further information or enquiries, please email info@venturebeyond.uk
