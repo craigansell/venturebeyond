@@ -10,9 +10,7 @@ header:
 <div>
 <img src="/assets/images/image6.png" width="30%" height="auto" style="float: left; margin: 10px;">
 
-At venturebeyond we are able to provide outdoor training for hill walking, mountaineering and climbing.<br>
-<br>
-With a friendly and inclusive enviroment, you can be sure of an enjoyable time with VentureBeyond, whether you are on a course or one of our guided sessions.<br>
+At venturebeyond we are able to provide outdoor training for hill walking, mountaineering and climbing. With a friendly and inclusive enviroment, you can be sure of an enjoyable time with VentureBeyond, whether you are on a course or on one of our guided / skill sessions.<br>
 <br>
 <img src="/assets/images/IMG_3957.png" width="25%" height="auto" style="float: right; margin: 10px;">
 To see what we can offer, please click on COURSES above or click <a href="/courses/">HERE</a>
