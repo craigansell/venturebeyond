@@ -21,11 +21,11 @@ Area's covered - Shropshire, Peak District and Midlands<br>
 Please contact us to discuss your requirments.<br>
 Group Size Max 6 Persons<br>
 
-**Guided Walks** (Can include skill practice e.g.navigation etc.)
-**Intro to Geocaching**
-**Intro to Navigation**
+- Guided Walks (Can include skill practice e.g.navigation etc.)
+- Intro to Geocaching
+- Intro to Navigation
 
-**[Guiding(/guiding)**
+**[Guiding](/guiding)**
 
 
 
