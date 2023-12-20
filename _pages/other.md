@@ -5,7 +5,7 @@ permalink: /other/
 ---
 
 <div>
-<img src="/assets/images/IMG_3957.png" width="30%" height="auto" style="float: left; margin: 10px;">
+<img src="/assets/images/IMG_3997.png" width="30%" height="auto" style="float: left; margin: 10px;">
 
 Ever wanted to just go for a walk to places you are not sure about? Need to exercise? Try a new activity like Geocaching or spot up on navigation skills?<br>
 Well we have some options for you. We can give you a bespoke inclusive session, taylored to you or your groups needs and abilities, in a variety of areas or terrains.<br>
