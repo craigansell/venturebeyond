@@ -1,1 +1,17 @@
-, Can include skill practice e.g.navigation etc.
+---
+layout: single
+title: Guided Walks and Other Training
+permalink: /other/
+---
+
+Ever wanted to just go for a walk to places you are not sure about? Need to exercise?, Try a new activity like Geocaching or spot up on navigation skills? Well we have some options for you. We can give you a bespoke session, taylored to you or your groups needs, in a variety of areas or terrains.<br>
+Area’s covered - Shropshire, Peak District and Midlands<br>
+<br>
+Group Size Max 6 Persons<br>
+<br>
+here are some examples of what we can offer:<br>
+- Guided Walks (Can be 'local' or in areas indicated above, include skill practice e.g.navigation etc.)
+- Intro to Geocaching (click [here](https://geocaching.com) to see whats its all about)
+- Intro to Navigation
+
+For further information or enquiries, please email info@venturebeyond.uk
