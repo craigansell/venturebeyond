@@ -26,4 +26,4 @@ Full Day @ £130.00<br>
 Half Day £65.00<br>
 </div>
 <br>
-For further information or enquiries, please email [info@venturebeyond.uk](mailto:info@venturebeyond.uk)
+For further information or enquiries, please email <a href="mailto:info@venturebeyond.uk">info@venturebeyond.uk</a>
