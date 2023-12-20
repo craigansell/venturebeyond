@@ -15,7 +15,7 @@ To see what we can offer, please click on COURSES above or click [HERE](/courses
 
 If you require a bespoke session and cannot see what you require, please contact us at [info@ventureveyond.uk](mailto:info@venturebeyond.uk)
 
-<img src="/assets/images/IMG_3957.png" alt="map" width="50%" height="auto">
+<img src="/assets/images/IMG_3957.png" alt="map" width="25%" height="auto">
 <br>
 <img src="/assets/images/image6.png" alt="group" width="50%" height="auto">
 
