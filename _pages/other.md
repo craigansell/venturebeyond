@@ -14,14 +14,16 @@ Well we have some options for you. We can give you a bespoke inclusive session, 
 <br>
 Area’s covered - Shropshire, Peak District, Staffordshire and West Midlands<br>
 <br>
-Group Size Max 6 Persons<br>
+* Group Size Max 6 Persons<br>
 <br>
 Here are some examples of what we can offer:<br>
-- Guided Walks (Can be 'local' or in areas indicated above, include skill practice e.g.navigation etc.)<br>
-- Intro to Geocaching (click [here](https://geocaching.com) to visit Geocaching.com to see whats its all about)<br>
-- Intro to Navigation<br>
-<br>
+<ul>
+  <li>- Guided Walks (Can be 'local' or in areas indicated above, include skill practice e.g.navigation etc.)</li>
+  <li>- Intro to Geocaching (click [here](https://geocaching.com) to visit Geocaching.com to see whats its all about)</li>
+  <li>- Intro to Navigation</li>
+</ul>
 Full Day @ £130.00<br>
 Half Day £65.00<br>
 </div>
+<br>
 For further information or enquiries, please email info@venturebeyond.uk
