@@ -41,7 +41,7 @@ We start at 9am with a chat over a cuppa in our training room, covering some the
 - Hydration, nutrition and kit
 - Emergency procedures
 
-**Cost - £140.00**
+**Cost - £120.00**
 
 <a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
 
@@ -70,7 +70,7 @@ The days are flexible to suit the prevailing weather conditions. We start both d
 - Navigational strategies for reduced visibility (night, fog etc)
 - Technology – GPS, mobile phones & altimeters
 
-**Cost - £145.00**
+**Cost - £140.00**
 
 <a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
 
