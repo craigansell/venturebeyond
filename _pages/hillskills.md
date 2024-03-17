@@ -35,7 +35,7 @@ Over the two days which run from 09:00 to 17:00 we will cover;
 - **Hazards and emergency procedures in the hills** – how to respond to any hazards you encounter and what to do in an emergency.
 
 
-**Cost - £120.00**
+**Cost - £130.00**
 
 <a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
 
