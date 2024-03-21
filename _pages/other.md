@@ -22,8 +22,8 @@ Here are some examples of what we can offer:<br>
   <li>Intro to Geocaching (click <a href="https://geocaching.com">HERE</a> to visit Geocaching.com to see whats its all about)</li>
   <li>Intro to Navigation</li>
 </ul>
-Full Day @ £120.00<br>
-Half Day £60.00<br>
+Full From Day £120.00<br>
+Half From Day £60.00<br>
 </div>
 <br>
 For further information or enquiries, please email <a href="mailto:info@venturebeyond.uk">info@venturebeyond.uk</a>
