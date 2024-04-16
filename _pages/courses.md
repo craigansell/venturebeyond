@@ -6,7 +6,7 @@ permalink: /courses/
 
 ### Mountain Training Courses
 
-<img src="/assets/images/mt-logo.png">
+<img src="/assets/images/MT_Logo_FULL.png">
 
 **[Mountain Training Hill Skills](/hillskills/)**
 
