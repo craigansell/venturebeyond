@@ -136,7 +136,7 @@ author:
 footer:
   links:
     - label: "Mountain Training"
-      icon: "/assets/images/mt-logo.png"
+      icon: "/assets/images/MT_Logo_FULL.png width="35%" height="auto"
       #url: "http://mountain-training.org"
     - label: "Terms and Conditions"
       # icon: "fab fa-fw fa-facebook-square"
