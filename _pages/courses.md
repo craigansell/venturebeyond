@@ -4,12 +4,6 @@ title: Courses
 permalink: /courses/
 ---
 
-### Mountain Training Courses
-
-<img src="/assets/images/MT_Logo_FULL.png" width="40%" height="auto">
-
-**[Mountain Training Hill Skills](/hillskills/)**
-
 ### National Navigation Award Scheme (NNAS)
 
 <img src="/assets/images/nnas-logo.png">
