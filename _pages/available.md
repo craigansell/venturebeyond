@@ -8,7 +8,7 @@ permalink: /available/
 Both the Bronze and Silver awards can be delivered, <br>
 usually around the Shropshire Hills, although others can be discussed.<br>
 
-### **[Guiding and Hill Skills](/other/)**
+### **[Guiding and Hill Skills](/hillskills/)**
 Area's covered - Shropshire, Peak District and Midlands<br>
 Please contact us to discuss your requirments.<br>
 Group Size Max 6 Persons<br>
