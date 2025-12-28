@@ -4,18 +4,14 @@ title: Courses
 permalink: /courses/
 ---
 
-### National Navigation Award Scheme (NNAS)
+### **[National Navigation Award Scheme (NNAS) Bronze and Silver Navigator Awards](/nnas/)**
 
 <img src="/assets/images/nnas-logo.png">
 
-### **[NNAS Bronze and Silver Navigator Awards](/nnas/)**
-
-### Guiding and Hill Skills
+### **[Guiding and Hill Skills](/other/)**
 Area's covered - Shropshire, Peak District and Midlands<br>
 Please contact us to discuss your requirments.<br>
 Group Size Max 6 Persons<br>
-
-**[Guiding and Hill Skills](/other/)**
 
 ### Indoor Climbing
 Various climbing centres can be used.
