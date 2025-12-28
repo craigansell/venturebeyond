@@ -8,7 +8,7 @@ permalink: /courses/
 
 <img src="/assets/images/nnas-logo.png">
 
-**[NNAS Bronze and Silver Navigator Awards](/nnas/)**
+### **[NNAS Bronze and Silver Navigator Awards](/nnas/)**
 
 ### Guiding and Hill Skills
 Area's covered - Shropshire, Peak District and Midlands<br>
