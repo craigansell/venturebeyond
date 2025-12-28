@@ -4,7 +4,6 @@ title: Courses
 permalink: /courses/
 ---
 
-<img src="/assets/images/nnas-logo.png">
 ### **[National Navigation Award Scheme (NNAS) Bronze and Silver Navigator Awards](/nnas/)**
 
 ### **[Guiding and Hill Skills](/other/)**
