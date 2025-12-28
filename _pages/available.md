@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Whats Available
+title: Whats we Offer
 permalink: /available/
 ---
 
