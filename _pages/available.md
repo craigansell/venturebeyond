@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Courses
-permalink: /courses/
+title: Whats Available
+permalink: /available/
 ---
 
 ### **[National Navigation Award Scheme (NNAS)](/nnas/)**
