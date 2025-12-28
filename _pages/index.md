@@ -21,7 +21,7 @@ Many people just want more out of life, more adventures, but are unsure of going
 At venturebeyond we are able to provide outdoor training for hill walking, mountaineering and climbing. With a friendly and inclusive enviroment, you can be sure of an enjoyable time with VentureBeyond, whether you are on a course or on one of our guided / skill sessions.<br>
 <br>
 <img src="/assets/images/IMG_3957.png" width="25%" height="auto" style="float: right; margin: 10px;">
-To see what we can offer, please click on COURSES above or click <a href="/courses/">HERE</a><br>
+To see what we can offer, please click on "What We Offer" above or click <a href="/avilable/">HERE</a><br>
 <br>
 </div>
 
