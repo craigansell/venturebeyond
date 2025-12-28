@@ -17,13 +17,13 @@ Group Size Max 6 Persons<br>
 
 **[Guiding and Hill Skills](/other/)**
 
-###Indoor Climbing
+### Indoor Climbing
 Various climbing centres can be used.
 
-###Health and Wellness
+### Health and Wellness
 Guided walks, Nature walks etc.
 
-###Disability Access
+### Disability Access
 Adaptive climbing, walking, carers welcome
 
 For further information or enquiries, please email info@venturebeyond.uk
