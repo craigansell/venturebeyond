@@ -43,8 +43,6 @@ We start at 9am with a chat over a cuppa in our training room, covering some the
 
 **Cost - £120.00**
 
-<a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
-
 **Silver Navigator Award**
 
 On a Silver Navigator Award course, you’ll start to leave the paths behind. You'll navigate in open country on short bearings. As your confidence increases you’ll learn more advanced compass skills and add timing and pacing into the mix too.
@@ -71,8 +69,6 @@ The days are flexible to suit the prevailing weather conditions. We start both d
 - Technology – GPS, mobile phones & altimeters
 
 **Cost - £140.00**
-
-<a href="/calendar/" class="btn btn--success">Check Course Calendar for Available Dates</a>
 
 ***Please Note:***
 - Accomodation is not provided on this course
