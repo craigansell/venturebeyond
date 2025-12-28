@@ -4,9 +4,8 @@ title: Courses
 permalink: /courses/
 ---
 
-### **[National Navigation Award Scheme (NNAS) Bronze and Silver Navigator Awards](/nnas/)**
-
 <img src="/assets/images/nnas-logo.png">
+### **[National Navigation Award Scheme (NNAS) Bronze and Silver Navigator Awards](/nnas/)**
 
 ### **[Guiding and Hill Skills](/other/)**
 Area's covered - Shropshire, Peak District and Midlands<br>
