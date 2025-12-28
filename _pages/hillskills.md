@@ -1,7 +1,7 @@
 ---
 layout: single
-title: Guided Walks and Other Training
-permalink: /other/
+title: Guided Walks and Hill Skills
+permalink: /hillskills/
 ---
 
 <div>
