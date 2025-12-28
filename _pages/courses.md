@@ -8,17 +8,22 @@ permalink: /courses/
 
 <img src="/assets/images/nnas-logo.png">
 
-**[Bronze and Silver Navigator Awards](/nnas/)**
+**[NNAS Bronze and Silver Navigator Awards](/nnas/)**
 
-### Guiding and Other Training
+### Guiding and Hill Skills
 Area's covered - Shropshire, Peak District and Midlands<br>
 Please contact us to discuss your requirments.<br>
 Group Size Max 6 Persons<br>
 
-- Guided Walks (Can include skill practice e.g.navigation etc.)
-- Intro to Geocaching
-- Intro to Navigation
+**[Guiding and Hill Skills](/other/)**
 
-**[Guiding and Other Training](/other/)**
+###Indoor Climbing
+Various climbing centres can be used.
+
+###Health and Wellness
+Guided walks, Nature walks etc.
+
+###Disability Access
+Adaptive climbing, walking, carers welcome
 
 For further information or enquiries, please email info@venturebeyond.uk
